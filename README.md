@@ -1,4 +1,4 @@
-# Gerador_de_senhas# Random Password Generator
+# Random Password Generator#
 
 Este é um simples gerador de senhas aleatórias em Python. O programa solicita ao usuário o tamanho desejado para a senha e utiliza caracteres alfanuméricos, símbolos e pontuações para criar uma senha aleatória.
 
